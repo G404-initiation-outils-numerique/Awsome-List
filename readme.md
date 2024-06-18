@@ -4,14 +4,14 @@ Une liste organisée des modules de formation axés sur le développement profes
 
 ## Table des Matières
 
-- [Module 1 : Maîtrise de la Google Suite](#module-1-maîtrise-de-la-google-suite)
-- [Module 2 : Rédaction d'un CV Moderne](#module-2-rédaction-dun-cv-moderne)
-- [Module 3 : Rédaction de Lettres de Motivation Inclusives](#module-3-rédaction-de-lettres-de-motivation-inclusives)
-- [Module 4 : Séance Pratique et Personnalisée](#module-4-séance-pratique-et-personnalisée)
+- [Module 1 : Maîtrise de la Google Suite](#module-1--maîtrise-de-la-google-suite)
+- [Module 2 : Rédaction d'un CV Moderne](#module-2--rédaction-dun-cv-moderne)
+- [Module 3 : Rédaction de Lettres de Motivation Inclusives](#module-3--rédaction-de-lettres-de-motivation-inclusives)
+- [Module 4 : Séance Pratique et Personnalisée](#module-4--séance-pratique-et-personnalisée)
 
 ---
 
-## Module 1 : Maîtrise de La Google Suite
+## Module 1 : Maîtrise de la Google Suite
 
 Découvrez comment utiliser efficacement les outils de Google Suite, tels que Google Docs, Google Sheets, Google Slides, et Google Meet, pour optimiser votre productivité professionnelle et collaborative.
 
